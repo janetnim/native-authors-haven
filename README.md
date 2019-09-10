@@ -1,2 +1,2 @@
-# native-authors-haven
-Mobile Authors Haven app
+# Authors Haven
+Mobile Authors Haven app using React Native.
